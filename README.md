@@ -1,2 +1,2 @@
-# linear_mixed_models
-Code collection of linear modelling analyses
+# data_analytics_R
+Code collection of tabular data aggregation, hypothesis testing, and linear modelling analyses in R
